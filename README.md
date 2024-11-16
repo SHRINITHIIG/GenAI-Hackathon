@@ -29,7 +29,7 @@ The dataset used in this project contains the following fields:
 | **Newsletter_Subscription** | Whether the user has subscribed to the newsletter (True/False) |
 
 The dataset contains **user behavior data**, which will be used to **train** the model to classify the users into their preferred product categories.
-
+Dataset link - https://www.kaggle.com/datasets/kartikeybartwal/ecommerce-product-recommendation-collaborative
 ## Project Steps
 
 ### 1. **Data Preprocessing**
@@ -102,6 +102,12 @@ These results demonstrate that the model can accurately classify user profiles i
 - **Expand the dataset** with more diverse user data to make the recommendations even more personalized.
 - **Add more product categories** for a broader range of recommendations.
 - **Real-time recommendations**: Incorporate real-time user behavior to improve recommendation accuracy.
+
+## Output
+![image](https://github.com/user-attachments/assets/15ea3a2c-6cd9-413c-918f-dedca0c53327)
+![image](https://github.com/user-attachments/assets/2eab4d16-a130-4aed-89de-31b49510c773)
+
+
 
 ## License
 
