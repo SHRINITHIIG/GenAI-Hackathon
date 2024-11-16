@@ -105,7 +105,8 @@ These results demonstrate that the model can accurately classify user profiles i
 
 ## Output
 ![image](https://github.com/user-attachments/assets/15ea3a2c-6cd9-413c-918f-dedca0c53327)
-![image](https://github.com/user-attachments/assets/2eab4d16-a130-4aed-89de-31b49510c773)
+![image](https://github.com/user-attachments/assets/84172a7c-b0ab-4ce1-b63f-e6625943c8bd)
+
 
 
 
